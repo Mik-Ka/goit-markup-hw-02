@@ -215,7 +215,7 @@ body {
   top: 174px; */
   background: #f5f4fa;
   border-radius: 4px;
-  font-family: 'Roboto';
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;

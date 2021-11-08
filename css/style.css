@@ -51,6 +51,10 @@ body {
 .top-contacts {
   text-decoration: none;
   color: var(--main-text-color);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
 
 .top-contacts:hover,
@@ -69,7 +73,7 @@ body {
 .section-one-title {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1.36px;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -107,8 +111,6 @@ body {
 }
 
 .section-two-text {
-  font-style: normal;
-  font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -153,9 +155,11 @@ body {
 }
 
 .logo-footer {
-  font-style: normal;
   font-weight: 700;
   font-family: 'Raleway', sans-serif;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
   color: #fff;
   text-decoration: none;
 }
@@ -201,12 +205,13 @@ body {
 }
 
 .portfolio-btn {
-  width: 128px;
+  /* width: 128px;
   height: 38px;
   left: 576px;
-  top: 174px;
+  top: 174px; */
   background: #f5f4fa;
   border-radius: 4px;
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
